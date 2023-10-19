@@ -1,0 +1,8 @@
+C:\Projetos Luisa\Cenoura\theGame_oo\theGame_oo\bin\Debug\theGame_oo.exe.config
+C:\Projetos Luisa\Cenoura\theGame_oo\theGame_oo\bin\Debug\theGame_oo.exe
+C:\Projetos Luisa\Cenoura\theGame_oo\theGame_oo\bin\Debug\theGame_oo.pdb
+C:\Projetos Luisa\Cenoura\theGame_oo\theGame_oo\obj\Debug\theGame_oo.csproj.AssemblyReference.cache
+C:\Projetos Luisa\Cenoura\theGame_oo\theGame_oo\obj\Debug\theGame_oo.csproj.SuggestedBindingRedirects.cache
+C:\Projetos Luisa\Cenoura\theGame_oo\theGame_oo\obj\Debug\theGame_oo.csproj.CoreCompileInputs.cache
+C:\Projetos Luisa\Cenoura\theGame_oo\theGame_oo\obj\Debug\theGame_oo.exe
+C:\Projetos Luisa\Cenoura\theGame_oo\theGame_oo\obj\Debug\theGame_oo.pdb

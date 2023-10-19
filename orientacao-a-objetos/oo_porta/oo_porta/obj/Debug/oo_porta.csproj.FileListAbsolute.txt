@@ -1,0 +1,8 @@
+C:\Projetos Luisa\Cenoura\oo_porta\oo_porta\bin\Debug\oo_porta.exe.config
+C:\Projetos Luisa\Cenoura\oo_porta\oo_porta\bin\Debug\oo_porta.exe
+C:\Projetos Luisa\Cenoura\oo_porta\oo_porta\bin\Debug\oo_porta.pdb
+C:\Projetos Luisa\Cenoura\oo_porta\oo_porta\obj\Debug\oo_porta.csproj.AssemblyReference.cache
+C:\Projetos Luisa\Cenoura\oo_porta\oo_porta\obj\Debug\oo_porta.csproj.SuggestedBindingRedirects.cache
+C:\Projetos Luisa\Cenoura\oo_porta\oo_porta\obj\Debug\oo_porta.csproj.CoreCompileInputs.cache
+C:\Projetos Luisa\Cenoura\oo_porta\oo_porta\obj\Debug\oo_porta.exe
+C:\Projetos Luisa\Cenoura\oo_porta\oo_porta\obj\Debug\oo_porta.pdb

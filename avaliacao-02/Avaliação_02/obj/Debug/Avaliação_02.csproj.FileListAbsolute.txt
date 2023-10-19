@@ -1,0 +1,8 @@
+C:\Projetos Luisa\Cenoura\Avaliação_02\Avaliação_02\obj\Debug\Avaliação_02.csproj.AssemblyReference.cache
+C:\Projetos Luisa\Cenoura\Avaliação_02\Avaliação_02\obj\Debug\Avaliação_02.csproj.SuggestedBindingRedirects.cache
+C:\Projetos Luisa\Cenoura\Avaliação_02\Avaliação_02\obj\Debug\Avaliação_02.csproj.CoreCompileInputs.cache
+C:\Projetos Luisa\Cenoura\Avaliação_02\Avaliação_02\bin\Debug\Avaliação_02.exe.config
+C:\Projetos Luisa\Cenoura\Avaliação_02\Avaliação_02\bin\Debug\Avaliação_02.exe
+C:\Projetos Luisa\Cenoura\Avaliação_02\Avaliação_02\bin\Debug\Avaliação_02.pdb
+C:\Projetos Luisa\Cenoura\Avaliação_02\Avaliação_02\obj\Debug\Avaliação_02.exe
+C:\Projetos Luisa\Cenoura\Avaliação_02\Avaliação_02\obj\Debug\Avaliação_02.pdb

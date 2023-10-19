@@ -1,0 +1,8 @@
+C:\Projetos Luisa\Cenoura\oo_Conta\oo_Conta\bin\Debug\oo_Conta.exe.config
+C:\Projetos Luisa\Cenoura\oo_Conta\oo_Conta\bin\Debug\oo_Conta.exe
+C:\Projetos Luisa\Cenoura\oo_Conta\oo_Conta\bin\Debug\oo_Conta.pdb
+C:\Projetos Luisa\Cenoura\oo_Conta\oo_Conta\obj\Debug\oo_Conta.csproj.AssemblyReference.cache
+C:\Projetos Luisa\Cenoura\oo_Conta\oo_Conta\obj\Debug\oo_Conta.csproj.SuggestedBindingRedirects.cache
+C:\Projetos Luisa\Cenoura\oo_Conta\oo_Conta\obj\Debug\oo_Conta.csproj.CoreCompileInputs.cache
+C:\Projetos Luisa\Cenoura\oo_Conta\oo_Conta\obj\Debug\oo_Conta.exe
+C:\Projetos Luisa\Cenoura\oo_Conta\oo_Conta\obj\Debug\oo_Conta.pdb

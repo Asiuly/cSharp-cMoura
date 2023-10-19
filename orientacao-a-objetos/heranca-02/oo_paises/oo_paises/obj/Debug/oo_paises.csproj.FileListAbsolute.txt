@@ -1,0 +1,8 @@
+C:\Projetos Luisa\Cenoura\oo_paises\oo_paises\obj\Debug\oo_paises.csproj.AssemblyReference.cache
+C:\Projetos Luisa\Cenoura\oo_paises\oo_paises\obj\Debug\oo_paises.csproj.SuggestedBindingRedirects.cache
+C:\Projetos Luisa\Cenoura\oo_paises\oo_paises\obj\Debug\oo_paises.csproj.CoreCompileInputs.cache
+C:\Projetos Luisa\Cenoura\oo_paises\oo_paises\bin\Debug\oo_paises.exe.config
+C:\Projetos Luisa\Cenoura\oo_paises\oo_paises\bin\Debug\oo_paises.exe
+C:\Projetos Luisa\Cenoura\oo_paises\oo_paises\bin\Debug\oo_paises.pdb
+C:\Projetos Luisa\Cenoura\oo_paises\oo_paises\obj\Debug\oo_paises.exe
+C:\Projetos Luisa\Cenoura\oo_paises\oo_paises\obj\Debug\oo_paises.pdb

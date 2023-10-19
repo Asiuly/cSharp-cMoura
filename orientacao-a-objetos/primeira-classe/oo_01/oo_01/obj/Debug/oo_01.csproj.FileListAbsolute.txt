@@ -1,0 +1,8 @@
+C:\Projetos Luisa\Cenoura\oo_01\oo_01\bin\Debug\oo_01.exe.config
+C:\Projetos Luisa\Cenoura\oo_01\oo_01\bin\Debug\oo_01.exe
+C:\Projetos Luisa\Cenoura\oo_01\oo_01\bin\Debug\oo_01.pdb
+C:\Projetos Luisa\Cenoura\oo_01\oo_01\obj\Debug\oo_01.csproj.AssemblyReference.cache
+C:\Projetos Luisa\Cenoura\oo_01\oo_01\obj\Debug\oo_01.csproj.SuggestedBindingRedirects.cache
+C:\Projetos Luisa\Cenoura\oo_01\oo_01\obj\Debug\oo_01.csproj.CoreCompileInputs.cache
+C:\Projetos Luisa\Cenoura\oo_01\oo_01\obj\Debug\oo_01.exe
+C:\Projetos Luisa\Cenoura\oo_01\oo_01\obj\Debug\oo_01.pdb
